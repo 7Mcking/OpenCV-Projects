@@ -1,5 +1,5 @@
 # OpenCV-Projects-cpp
-My experiments with OpenCV library using cpp
+My experiments with OpenCV library using cpp. In order to work with the code the user needs OpenCV library installed and must be in the system path.
 
 ## List of Projects I have done with OpenCV
 
